@@ -394,9 +394,9 @@ int main() {
 	
 	while(1) {
 		printf("[");
-		//dist_sensor_active();
-		//analog_sensor_active();
-		//temp_sensor_active();
+		dist_sensor_active();
+		analog_sensor_active();
+		temp_sensor_active();
 		stampa();
 		printf("]");
 		delay_ms(periodo);
