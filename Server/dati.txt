@@ -1,0 +1,287 @@
+tempo 19.32
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.32
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.32
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.33
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.34
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.35
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.35
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.35
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.35
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.35
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.35
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.35
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
+tempo 19.35
+
+Distanza  0.00 cm
+Profondità  0.00 cm
+Temperatura  0.00 °C
+Umidità  0.00 %
+
